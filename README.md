@@ -35,9 +35,5 @@ I'm passionate about creating digital products that are not only visually stunni
 
 ## 📫 Connect With Me
 
-- [Portfolio](https://your-portfolio-url.com)
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Dribbble](https://dribbble.com/your-profile)
-- [Instagram](https://instagram.com/your-photography)
-
-When I'm not designing interfaces or writing code, you can find me exploring with my camera, sketching new ideas, or learning about emerging technologies in design and development.
+- [LinkedIn](www.linkedin.com/in/dyan-azaña-453202301)
+- [Instagram](https://www.instagram.com/dyone.andonly/)

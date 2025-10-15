@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dyan Azaña
+# 👋 Hi, I'm azerndo
 
 I'm a multidisciplinary creator working at the intersection of design and development. With expertise in UI/UX research, graphic design, photography, and coding, I build experiences that are both beautiful and functional.
 

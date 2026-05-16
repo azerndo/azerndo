@@ -4,6 +4,8 @@
 
 I work at the intersection of design, development, and data. With nearly a decade of experience spanning UI/UX research, full-stack engineering, and visual design, I architect digital products that are as structurally robust as they are visually compelling.
 
+![3D GitHub Contributions](https://raw.githubusercontent.com/azerndo/azerndo/main/profile-3d-contrib/profile-night-view.svg)
+
 ### Core Competencies
 ---
 
